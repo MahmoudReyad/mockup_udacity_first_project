@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1- i have learned how to search for element in mdn and know how it works exactly.
+2-it has been easy to convert the mockup into real code.
+3-no thing has been diffcult.
+4-i search for every thing i want to know to help me in write code .
